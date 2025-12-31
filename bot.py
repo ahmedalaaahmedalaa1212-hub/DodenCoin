@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_TOKEN = os.environ["8374900683:AAGBZ9Ni4jpsLDr0nemtPrJXL7U0nIZxskQ"]
 WEB_APP_URL = os.environ["WEB_APP_URL"]
 
 bot = telebot.TeleBot(BOT_TOKEN)
